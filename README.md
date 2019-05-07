@@ -12,19 +12,17 @@ redis启动地址： https://www.cnblogs.com/shoren/p/redis.html
 
 ```
 
+启动redis方式一：
 进入redis目录
-
 winodws redis/64bit
-
 mac redis/etc
-
 一个窗口
-
-redis-server redis.conf 
-
+redis-server redis.conf
 另启一个窗口
-
 redis-cli -h 127.0.0.1 -p 6379
+
+方式二：
+直接启动 redis-server
 
 
 ```
