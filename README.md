@@ -44,7 +44,7 @@ redis-cli -h 127.0.0.1 -p 6379
 
 ```
 
-git clone https://github.com/hua1995116/mcharts.git
+git clone https://github.com/susieWang/mcharts.git
 
 cd mcharts
 
