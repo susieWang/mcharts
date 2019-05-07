@@ -1,0 +1,7 @@
+user_ip=192.168.12.127&whiteScreenTime=54&readyTime=56&allloadTime=57&mobile=iPhone&nowTime=1557193058312
+
+user_ip=192.168.12.127&whiteScreenTime=27&readyTime=28&allloadTime=29&mobile=iPhone&nowTime=1557194262915
+
+user_ip=192.168.12.127&whiteScreenTime=13&readyTime=14&allloadTime=14&mobile=iPhone&nowTime=1557194309680
+user_ip=192.168.12.127&whiteScreenTime=16&readyTime=17&allloadTime=18&mobile=iPhone&nowTime=1557194307877
+
